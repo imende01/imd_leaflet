@@ -1,0 +1,325 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.1787657,40.4654987 ]
+    },
+    "properties": {
+    "id":"sales_Castellon3",
+    "region":"C.Valenciana",
+    "province":"Castellon",
+    "title":"Sant Mateu",
+    "title":66000,
+    "dorms":4,
+    "baths":1,
+    "surface":100,
+    "images_link":"https://media.yaencontre.com/img/photo/w380/27731/27731-25538252-600414119.jpg",
+    "Full_Address":"carrer de les Gallines, Sant Mateu, el Baix Maestrat, Castelló / Castellón, Comunitat Valenciana, 12170, España",
+    "Zipcode":"12170"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.09643,40.6179 ]
+    },
+    "properties": {
+    "id":"sales_Castellon5",
+    "region":"C.Valenciana",
+    "province":"Castellon",
+    "title":"Morella",
+    "title":68900,
+    "dorms":1,
+    "baths":1,
+    "surface":58,
+    "images_link":"https://media.yaencontre.com/img/photo/w380/25556/25556-35459092-826436602.jpg",
+    "Full_Address":"Carretera Santander - Vinaroz, Morella, els Ports, Castelló / Castellón, Comunitat Valenciana, 12300, España",
+    "Zipcode":"12300"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.026904,40.2113514 ]
+    },
+    "properties": {
+    "id":"sales_Castellon6",
+    "region":"C.Valenciana",
+    "province":"Castellon",
+    "title":"Benlloch",
+    "title":49200,
+    "dorms":3,
+    "baths":1,
+    "surface":124,
+    "images_link":"https://media.yaencontre.com/img/photo/w380/25556/25556-35574856-827259271.jpg",
+    "Full_Address":"7, Carrer del Municipi, Benlloc, la Plana Alta, Castelló / Castellón, Comunitat Valenciana, 12181, España",
+    "Zipcode":"12181"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.5518799,39.92185 ]
+    },
+    "properties": {
+    "id":"sales_Castellon8",
+    "region":"C.Valenciana",
+    "province":"Castellon",
+    "title":"Jérica",
+    "title":61800,
+    "dorms":2,
+    "baths":2,
+    "surface":112,
+    "images_link":"https://media.yaencontre.com/img/photo/w380/25556/25556-35592136-827377012.jpg",
+    "Full_Address":"El Hostalejo, Jérica, l'Alt Palància, Castelló / Castellón, Comunitat Valenciana, 12440, España",
+    "Zipcode":"12440"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.5121809,39.8512277 ]
+    },
+    "properties": {
+    "id":"sales_Castellon13",
+    "region":"C.Valenciana",
+    "province":"Castellon",
+    "title":"Altura",
+    "title":124000,
+    "dorms":4,
+    "baths":2,
+    "surface":109,
+    "images_link":"0",
+    "Full_Address":"Panaderia La Palmera, 47, Calle La Palmera, Altura, l'Alt Palància, Castelló / Castellón, Comunitat Valenciana, 12400, España",
+    "Zipcode":"12400"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4567404,39.86217955 ]
+    },
+    "properties": {
+    "id":"sales_Castellon14",
+    "region":"C.Valenciana",
+    "province":"Castellon",
+    "title":"ESTE - PAU SENSAL, Castellnovo",
+    "title":62000,
+    "dorms":3,
+    "baths":1,
+    "surface":100,
+    "images_link":"0",
+    "Full_Address":"Calle Platería, Castellnovo, l'Alt Palància, Castelló / Castellón, Comunitat Valenciana, 12412, España",
+    "Zipcode":"12412"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.001043401,40.10297144 ]
+    },
+    "properties": {
+    "id":"sales_Castellon15",
+    "region":"C.Valenciana",
+    "province":"Castellon",
+    "title":"Pueblo, Pobla Tornesa (la)",
+    "title":56000,
+    "dorms":2,
+    "baths":1,
+    "surface":71,
+    "images_link":"0",
+    "Full_Address":"Carrer Cabanes, Urbanización La Marmudella, la Pobla Tornesa, la Plana Alta, Castelló / Castellón, Comunitat Valenciana, 12191, España",
+    "Zipcode":"12191"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4775885,39.8477475 ]
+    },
+    "properties": {
+    "id":"sales_Castellon17",
+    "region":"C.Valenciana",
+    "province":"Castellon",
+    "title":"Salzadella (la)",
+    "title":58000,
+    "dorms":6,
+    "baths":4,
+    "surface":234,
+    "images_link":"0",
+    "Full_Address":"CV-200, San Antón, Peñalba, Segorbe, l'Alt Palància, Castelló / Castellón, Comunitat Valenciana, 12400, España",
+    "Zipcode":"12400"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.05047637,40.11740416 ]
+    },
+    "properties": {
+    "id":"sales_Castellon18",
+    "region":"C.Valenciana",
+    "province":"Castellon",
+    "title":"Vilafamés",
+    "title":56600,
+    "dorms":0,
+    "baths":0,
+    "surface":73,
+    "images_link":"0",
+    "Full_Address":"Carrer El Pla, Vilafamés, la Plana Alta, Castelló / Castellón, Comunitat Valenciana, 12192, España",
+    "Zipcode":"12192"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.427150011,39.81533813 ]
+    },
+    "properties": {
+    "id":"sales_Castellon20",
+    "region":"C.Valenciana",
+    "province":"Castellon",
+    "title":"Soneja",
+    "title":76600,
+    "dorms":3,
+    "baths":2,
+    "surface":197,
+    "images_link":"0",
+    "Full_Address":"Calle del Río Palancia, Soneja, l'Alt Palància, Castelló / Castellón, Comunitat Valenciana, 12489, España",
+    "Zipcode":"12489"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.59693053,39.92436551 ]
+    },
+    "properties": {
+    "id":"sales_Castellon21",
+    "region":"C.Valenciana",
+    "province":"Castellon",
+    "title":"Viver",
+    "title":79700,
+    "dorms":2,
+    "baths":1,
+    "surface":145,
+    "images_link":"0",
+    "Full_Address":"Calle del Serrallo, Viver, l'Alt Palància, Castelló / Castellón, Comunitat Valenciana, 12460, España",
+    "Zipcode":"12460"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.51567959,39.8498499 ]
+    },
+    "properties": {
+    "id":"sales_Castellon27",
+    "region":"C.Valenciana",
+    "province":"Castellon",
+    "title":"Altura",
+    "title":44900,
+    "dorms":2,
+    "baths":1,
+    "surface":78,
+    "images_link":"https://media.yaencontre.com/img/photo/w380/19026/19026-23498248-578596765.jpg",
+    "Full_Address":"Calle Maestro Octavio Abad, Altura, l'Alt Palància, Castelló / Castellón, Comunitat Valenciana, 12400, España",
+    "Zipcode":"12400"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.220536402,40.61795944 ]
+    },
+    "properties": {
+    "id":"sales_Castellon28",
+    "region":"C.Valenciana",
+    "province":"Castellon",
+    "title":"Rossell",
+    "title":55200,
+    "dorms":3,
+    "baths":2,
+    "surface":129,
+    "images_link":"https://media.yaencontre.com/img/photo/w380/6161/6161-31663296-718182946.jpg",
+    "Full_Address":"Bar Restaurant Grèvol, Carrer del Doctor Joaquín Pla Comós, Rossell, el Baix Maestrat, Castelló / Castellón, Comunitat Valenciana, 12511, España",
+    "Zipcode":"12511"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.5238,40.06719999 ]
+    },
+    "properties": {
+    "id":"sales_Castellon29",
+    "region":"C.Valenciana",
+    "province":"Castellon",
+    "title":"Montanejos",
+    "title":103500,
+    "dorms":3,
+    "baths":1,
+    "surface":73,
+    "images_link":"https://media.yaencontre.com/img/photo/w380/19026/19026-21620990-529264622.jpg",
+    "Full_Address":"Panaderia Bolleria Pasteleria Alto Mijares, Calle Elvira Peiró, Montanejos, l'Alt Millars, Castelló / Castellón, Comunitat Valenciana, 12448, España",
+    "Zipcode":"12448"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.140989,40.380445 ]
+    },
+    "properties": {
+    "id":"sales_Castellon30",
+    "region":"C.Valenciana",
+    "province":"Castellon",
+    "title":"Benasal",
+    "title":51100,
+    "dorms":3,
+    "baths":2,
+    "surface":84,
+    "images_link":"https://media.yaencontre.com/img/photo/w380/19026/19026-23497618-835393759.jpg",
+    "Full_Address":"Calle de Ricardo Vives, Coll de la Rualda, Benassal, l'Alt Maestrat, Castelló / Castellón, Comunitat Valenciana, 12160, España",
+    "Zipcode":"12160"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.5238,40.06719999 ]
+    },
+    "properties": {
+    "id":"sales_Castellon31",
+    "region":"C.Valenciana",
+    "province":"Castellon",
+    "title":"Montanejos",
+    "title":197500,
+    "dorms":4,
+    "baths":2,
+    "surface":145,
+    "images_link":"https://media.yaencontre.com/img/photo/w380/19026/19026-21507802-578256921.jpg",
+    "Full_Address":"Panaderia Bolleria Pasteleria Alto Mijares, Calle Elvira Peiró, Montanejos, l'Alt Millars, Castelló / Castellón, Comunitat Valenciana, 12448, España",
+    "Zipcode":"12448"
+    }
+  }
+ ]
+}
